@@ -1,12 +1,11 @@
 
-# Analysis
+# Description
 
-[Online Retail Analysis - Part 1](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
+[Retail Transactions (I): Cleaning & EDA](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
+[Retail Transactions (II): RFM Analysis](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
 
-# Classification
+# Prediction
 
-[test link](https://alexpaine.github.io/portfolio/test2.html)
+[Regression (I): ABC](https://alexpaine.github.io/portfolio/test2.html)
+[Classification (I): XYZ](https://alexpaine.github.io/portfolio/test2.html)
 
-# Regression
-
-[test link](https://alexpaine.github.io/portfolio/test2.html)
