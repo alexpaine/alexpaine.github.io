@@ -1,9 +1,9 @@
 
 # Description
 
-[Retail Transactions (I): Cleaning & EDA](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
+[E-Commerce Transactions (I): Cleaning & EDA](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
 
-Retail Transactions (II): RFM Analysis
+[E-Commerce Transactions (II): RFM Analysis & Customer Segmentation](https://alexpaine.github.io/portfolio/Transaction_Data_Part_2.html)
 
 # Prediction
 
