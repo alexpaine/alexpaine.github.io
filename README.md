@@ -1,13 +1,18 @@
 
-# Description
+# Analysis
 
-[E-Commerce Transactions (I): Cleaning & EDA](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
+[Analysis (I): E-Commerce Transactions](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
 
-[E-Commerce Transactions (II): RFM Analysis & Customer Segmentation](https://alexpaine.github.io/portfolio/Transaction_Data_Part_2.html)
+[Segmentation (I): E-Commerce Transactions](https://alexpaine.github.io/portfolio/Transaction_Data_Part_2.html)
+
+Segmentation (II): 
 
 # Prediction
 
-Regression (I): ABC
+Regression (I): House Prices
 
-Classification (I): XYZ
+Regression (II): Customer Lifetime Value (CLV)
 
+Classification (I): Customer Churn
+
+Classification (II): Marketing Campaign Outcome
