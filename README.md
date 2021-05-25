@@ -16,3 +16,7 @@ Regression (II): Customer Lifetime Value (CLV)
 Classification (I): Customer Churn
 
 Classification (II): Marketing Campaign Outcome
+
+# Learning 
+
+[Course Certificates](https://alexpaine.github.io/certificates/)
