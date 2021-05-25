@@ -1,6 +1,6 @@
-#Selected Courses
+**Selected Courses**
 
-#Python
+**Python**
 
 [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/a41caa8b23adc8d6621353a02d2654177bcb59dd)
 
@@ -8,7 +8,7 @@
 
 [Customer Analytics & A/B Testing](https://www.datacamp.com/statement-of-accomplishment/course/78e9d3ccbcbb4192ba391c49f52f9ad0f6e67578)
 
-#SQL
+**SQL**
 
 [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/d0dd4d30f5741704bf45a1e618f1f29686160ed9)
 
