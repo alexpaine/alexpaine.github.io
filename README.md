@@ -17,7 +17,7 @@ Classification (I): Customer Churn
 
 # A/B Testing
 
-A/B Testing (I): Loyalty Rewards
+[A/B Testing (I): Loyalty Rewards](https://alexpaine.github.io/portfolio/ABTest_ReducingChurn.html)
 
 # Learning 
 
