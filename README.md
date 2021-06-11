@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Projects
 
 [Analysis: E-Commerce Transactions](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
 
