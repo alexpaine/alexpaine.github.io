@@ -1,23 +1,23 @@
 
 # Analysis
 
-[Analysis (I): E-Commerce Transactions](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
+[Analysis: E-Commerce Transactions](https://alexpaine.github.io/portfolio/Transaction_Data_Part_1.html)
 
 Analysis (II): Customer Churn
 
 # Segmentation
 
-[Segmentation (I): RFM Analysis](https://alexpaine.github.io/portfolio/Transaction_Data_Part_2.html)
+[Segmentation: RFM Analysis](https://alexpaine.github.io/portfolio/Transaction_Data_Part_2.html)
 
 # Prediction
 
-Regression (I): House Prices
+Regression: House Prices
 
-Classification (I): Customer Churn
+Classification: Customer Churn
 
 # A/B Testing
 
-[A/B Testing (I): Loyalty Rewards](https://alexpaine.github.io/portfolio/ABTest_ReducingChurn.html)
+[A/B Testing: Loyalty Rewards](https://alexpaine.github.io/portfolio/ABTest_ReducingChurn.html)
 
 # Learning 
 
