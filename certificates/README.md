@@ -16,11 +16,11 @@
 
 **SQL**
 
-[Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/d0dd4d30f5741704bf45a1e618f1f29686160ed9)
-
 [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/98f1d997c928906942137bc31fa66f666f83722e)
 
 [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/1042b073f485713724dafb0e7d51006a3f6faf19)
+
+[Exploratory Data Analysis in SQL](https://www.datacamp.com/statement-of-accomplishment/course/b77958e5872441e77f0b65f87a509e1b2e3b8bdb)
 
 **Power BI**
 
